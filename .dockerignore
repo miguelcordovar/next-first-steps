@@ -1,0 +1,14 @@
+#files and folders nextjs project for dockerignore
+Dockerfile
+.dockerignore
+.git
+.gitignore
+.vscode
+node_modules
+npm-debug.log
+Readme.md
+.next
+.git
+
+
+
